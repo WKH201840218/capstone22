@@ -12,7 +12,9 @@
 ### 저번주에 만들었던 메인 화면은 보류에 있으며, 아직까지 메인화면 제작 외에는<br>링크 수와 운동관련 컨셉 변경중에 있습니다.
 
 ## 가상 메인화면 완성본
-![20220330_030447](https://user-images.githubusercontent.com/80237099/160676625-b993faa2-e192-469b-acad-a7cfce2ff092.png)
+![20220330_030447](https://user-images.githubusercontent.com/80237099/160676625-b993faa2-e192-469b-acad-a7cfce2ff092.png)<br>
+아직 예상도 이기도 하고 구체적은 운동용품 구상이 안되있어,<br>
+완성도가 낮은 편입니다.
 
 
 
